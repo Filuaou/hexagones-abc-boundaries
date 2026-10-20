@@ -9,7 +9,7 @@ The work describes an integer-coordinate, role-qualified point/tail representati
 
 ## Hexagones 2.0 — original application
 
-![Hexagones 2.0: hexagonal terrain, rivers, roads, railways, boundaries and military counters](images/HexagonesScreenshot.png)
+![Hexagones 2.0: hexagonal terrain, rivers, roads, railways, boundaries and military counters](HexagonesScreenshot.png)
 
 *Hexagones 2.0 — an example game map showing terrain, transport networks, boundaries, and military counters.*
 
