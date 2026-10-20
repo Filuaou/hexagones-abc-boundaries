@@ -3,9 +3,17 @@
 **Philippe Mullhaupt**  
 Laboratoire d'Automatique, EPFL
 
-Research materials accompanying the manuscript **An A-B-C Coordinate Construction for Exact Boundary-Cycle Extraction on Hexagonal Lattices** (working preprint; not yet assigned an arXiv identifier).
+Research materials accompanying the manuscript **An A-B-C Coordinate Construction for Exact Boundary-Cycle Extraction on Hexagonal Lattices**. The preprint is available in the arXiv Combinatorics category: **[arXiv:2610.25451](https://arxiv.org/abs/2610.25451)**.
 
 The work describes an integer-coordinate, role-qualified point/tail representation of hexagonal cell boundaries, exact edge cancellation, and extraction of boundary cycles, including holes. It compares the encoding against a cube-coordinate vertex-triple/half-edge hashing baseline.
+
+## Hexagones 2.0 — original application
+
+![Hexagones 2.0: hexagonal terrain, rivers, roads, railways, boundaries and military counters](HexagonesScreenshot.png)
+
+*Hexagones 2.0 — an example game map showing terrain, transport networks, boundaries, and military counters.*
+
+The Hexagones game provides the practical context for the boundary-extraction work. The complete game is not distributed in this repository.
 
 ## Contents
 
@@ -37,7 +45,13 @@ Requires a TeX distribution with TikZ and standard LaTeX packages.
 
 ## Scientific scope
 
-Three-axis coordinates, boundary operators, and cycle extraction are established concepts. The manuscript focuses on the explicit A-B-C point/tail incidence encoding. No historical-priority claim is made. Please independently review the proofs and bibliographic data before arXiv submission.
+Three-axis coordinates, boundary operators, and cycle extraction are established concepts. The manuscript focuses on the explicit A-B-C point/tail incidence encoding. No historical-priority claim is made. The arXiv preprint is publicly available; arXiv posting does not constitute journal peer review.
+
+## Game design acknowledgments
+
+The game design of **Hexagones 2.0** draws inspiration from the original **PanzerKrieg** board game published by **Avalon Hill**. This acknowledgment recognizes the historical game-design inspiration; Hexagones 2.0 is not presented as an official Avalon Hill product or an endorsement by its rights holders.
+
+Special thanks to **Dr. Gianluca Vecchietti** for directing the game-design work and for the many games played together, whose experience and discussions helped shape the project.
 
 ## Attribution and code status
 
